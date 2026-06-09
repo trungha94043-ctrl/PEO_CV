@@ -1,5 +1,1 @@
-{
-  "version": "1.0.2",
-  "url": "https://raw.githubusercontent.com/trungha94043-ctrl/PEO_CV/main/peo_chongvang_1.0.2.rbz",
-  "change_log": "Sửa lỗi không nhận lỗ khoét tròn/cung (CIRCLE/ARC) giữa tấm — giờ hiện trong giao diện và được đánh thứ tự cắt khi xuất DXF."
-}
+{ "version": "1.0.3", "url": "https://raw.githubusercontent.com/trungha94043-ctrl/PEO_CV/main/peo_chongvang_1.0.3.rbz", "change_log": "..." }
